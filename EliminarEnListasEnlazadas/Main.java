@@ -12,7 +12,7 @@ public class Main {
             System.out.println("");
             System.out.println("*********************************************");
             System.out.println("********************Menú*********************");
-            System.out.println("****1.- Insertar Posición                ****");
+            System.out.println("****1.- Insertar                         ****");
             System.out.println("****2.- Eliminar                         ****");
             System.out.println("****3.- Mostrar                          ****");            
             System.out.println("****4.- Salir                            ****");
